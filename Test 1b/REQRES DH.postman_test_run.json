@@ -1,0 +1,92 @@
+{
+	"id": "aea7ac91-3e7f-4bbd-b6b4-a8c1ae5d4e1e",
+	"name": "REQRES DH",
+	"timestamp": "2021-07-24T13:49:51.657Z",
+	"collection_id": "0572daf3-f3d8-4453-af9d-ef75f0db981a",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 4,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "5d5eb7ca-8c8d-4c18-8aec-b4d37339c76f",
+			"name": "Consult List Users",
+			"url": "https://reqres.in/api/users?page=2",
+			"time": 36,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Payload must be valid and have a body": true,
+				"Body email equal a michael.lawson@reqres.in": true
+			},
+			"testPassFailCounts": {
+				"Payload must be valid and have a body": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body email equal a michael.lawson@reqres.in": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				36
+			],
+			"allTests": [
+				{
+					"Payload must be valid and have a body": true,
+					"Body email equal a michael.lawson@reqres.in": true
+				}
+			]
+		},
+		{
+			"id": "39c2959c-96be-4fa8-befb-8c3a94fb5422",
+			"name": "Consult a Single User",
+			"url": "https://reqres.in/api/users/7",
+			"time": 24,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Payload must be valid and have a body": true,
+				"Body email equal a michael.lawson@reqres.in": true
+			},
+			"testPassFailCounts": {
+				"Payload must be valid and have a body": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Body email equal a michael.lawson@reqres.in": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				24
+			],
+			"allTests": [
+				{
+					"Payload must be valid and have a body": true,
+					"Body email equal a michael.lawson@reqres.in": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 60,
+	"collection": {
+		"requests": [
+			{
+				"id": "5d5eb7ca-8c8d-4c18-8aec-b4d37339c76f",
+				"method": "GET"
+			},
+			{
+				"id": "39c2959c-96be-4fa8-befb-8c3a94fb5422",
+				"method": "GET"
+			}
+		]
+	}
+}

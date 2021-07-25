@@ -1,0 +1,8 @@
+E:\CAPTIVA\CAPTIVA AUTOMATION EDMUNDO\CaptivaAutomation-Edmundo\Captiva.Reports\bin\Debug\netcoreapp3.1\DH.Reports.deps.json
+E:\CAPTIVA\CAPTIVA AUTOMATION EDMUNDO\CaptivaAutomation-Edmundo\Captiva.Reports\bin\Debug\netcoreapp3.1\DH.Reports.dll
+E:\CAPTIVA\CAPTIVA AUTOMATION EDMUNDO\CaptivaAutomation-Edmundo\Captiva.Reports\bin\Debug\netcoreapp3.1\DH.Reports.pdb
+E:\CAPTIVA\CAPTIVA AUTOMATION EDMUNDO\CaptivaAutomation-Edmundo\Captiva.Reports\obj\Debug\netcoreapp3.1\DH.Reports.csprojAssemblyReference.cache
+E:\CAPTIVA\CAPTIVA AUTOMATION EDMUNDO\CaptivaAutomation-Edmundo\Captiva.Reports\obj\Debug\netcoreapp3.1\DH.Reports.AssemblyInfoInputs.cache
+E:\CAPTIVA\CAPTIVA AUTOMATION EDMUNDO\CaptivaAutomation-Edmundo\Captiva.Reports\obj\Debug\netcoreapp3.1\DH.Reports.AssemblyInfo.cs
+E:\CAPTIVA\CAPTIVA AUTOMATION EDMUNDO\CaptivaAutomation-Edmundo\Captiva.Reports\obj\Debug\netcoreapp3.1\DH.Reports.dll
+E:\CAPTIVA\CAPTIVA AUTOMATION EDMUNDO\CaptivaAutomation-Edmundo\Captiva.Reports\obj\Debug\netcoreapp3.1\DH.Reports.pdb
